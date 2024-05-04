@@ -1,5 +1,6 @@
 # Entreprises analyzing in Morocco 🇲🇦
-Moroccan Entreprise Analyse (MEA) is a data science project aimed at analyzing various aspects of Moroccan businesses. The project involves collecting, processing, and analyzing data from different sources using web scraping in some webistes to gain insights into the performance, trends, and challenges faced by Moroccan enterprises.
+
+Welcome 👋🏼,Moroccan Entreprise Analyse (MEA) is a Data Analysis project aimed at analyzing various aspects of Moroccan businesses. The project involves collecting, processing, and analyzing data from different sources using web scraping from some webistes to gain insights into the performance, trends, and challenges faced by Moroccan enterprises 😊.
 
 
 # Project Overview
@@ -9,9 +10,5 @@ Moroccan Entreprise Analyse (MEA) is a data science project aimed at analyzing v
 **Prepare data: 🛠️📂**
 
 **Explore data: 🔍📊**
-
-**Build Categorical model: 🏗️🔢**
-
-**Testing 🧪🔍**
 
 **Communicate results: 📢📄**
