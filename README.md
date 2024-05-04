@@ -5,8 +5,13 @@ Moroccan Entreprise Analyse (MEA) is a data science project aimed at analyzing v
 # Project Overview
 
 **Scraping data: 🕸️📥**
+
 **Prepare data: 🛠️📂**
+
 **Explore data: 🔍📊**
+
 **Build Categorical model: 🏗️🔢**
+
 **Testing: 🧪🔍**
+
 **Communicate results: 📢📄**
