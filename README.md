@@ -5,10 +5,10 @@ Welcome 👋🏼, Moroccan Entreprise Analyse (MEA) is a Data Analysis project a
 
 # Project Overview
 
-**Scraping data: 🕸️📥**
+**Scraping data 🕸️📥**
 
-**Prepare data: 🛠️📂**
+**Prepare data 🛠️📂**
 
-**Explore data: 🔍📊**
+**Explore data 🔍📊**
 
-**Communicate results: 📢📄**
+**Communicate results 📢📄**
